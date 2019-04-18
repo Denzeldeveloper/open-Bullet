@@ -4,6 +4,6 @@ OpenBullet 1.2.2.3
   -New brand loliX encryption, from now on new loliX won't be supported on the old versions (for your configs safety resave em).
   -Relimited threads per bots from 5 to 3.
   
- [Ruri]
+[Ruri]
   -Fixed 2captcha to work with CapMonster and XEvil.
 
