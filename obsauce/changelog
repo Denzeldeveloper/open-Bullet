@@ -1,9 +1,20 @@
-OpenBullet 1.2.2.3
+OpenBullet 1.2.2.4
 
 [Forlax]
-  -New brand loliX encryption, from now on new loliX won't be supported on the old versions (for your configs safety resave em).
-  -Relimited threads per bots from 5 to 3.
+  -Rechanged encryption and fixed it.
+  -You can now maximize/minimize by doube clicking the title.
+  -Few tweaks over the bruteforcer checking system.
   
+[Meinname]
+  -Fixed TCP Connection if no Data on connect.
+
 [Ruri]
-  -Fixed 2captcha to work with CapMonster and XEvil.
+  -Fixed an issue with automatic wordlist creation.
+  -Added buttons to reset all the settings.
+  -Fixed UseRegexLR not being translated to LS at all.
+  -Fixed issue on LR parsing cutting the last character.
+  -More verbose program log on bots running info.
+  -Setting ERROR status back on failed captcha solving.
+  -Fixed Content-Type header being present on GET requests.
+  
 
