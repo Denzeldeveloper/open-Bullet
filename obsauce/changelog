@@ -1,14 +1,6 @@
-OpenBullet 1.2.2.5
+OpenBullet 1.2.2.6
 
-[Ruri]
-  -Fixed the issue when reading or writing escaped JSON strings.
-  -Fixed an issue of the previous commit.
-  -Added the ability to make OB parse the GET query in the Request block.
-  -You can now doubleclick Wordlists and Configs in the Runner selectors.
-  -Removed hidden default headers in Request Block.
-  -Added initial number for bots selector.
-  -Implemented the DoesNotExist condition.
-  -Now the settings correctly update visually after being reset.
-  -Auto recognition for the Wordlist Type of auto generated wordlists.
+  -Ay ay yay demiurgo.
+  -Transfered the mod ownership.
   
 
