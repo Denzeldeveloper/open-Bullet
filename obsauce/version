@@ -1,5 +1,5 @@
 :version:1.2.2.4;version;
 :download:https://github.com/ForlaxPy/openbullet-1.2/releases/download/1.2.2.4/OpenBullet.1.2.2.4.zip;download;
 :updates:https://github.com/ForlaxPy/openbullet-1.2/releases/download/1.2.2.4/OpenBullet.1.2.2.4.zip;updates;
-:priority:High;priority;
+:priority:low;priority;
  
